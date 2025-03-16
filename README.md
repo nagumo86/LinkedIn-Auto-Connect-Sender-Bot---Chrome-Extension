@@ -13,7 +13,6 @@ Automatically send connection requests on LinkedIn with customizable delays. Sav
 1. Install the extension from the Chrome Web Store: [Click here](https://chromewebstore.google.com/detail/linkedin-auto-connect-sen/ijpdpkdbkgmjhcfpffbkjfiibdapbhik?hl=en)
 2. Open LinkedIn and navigate to the 'My Network' page.
 3. Start the bot and let it send connection requests automatically.
-4. Adjust the delay settings to control the speed of requests.
 
 ## 📺 Demo Video
 [![Watch the video](https://img.youtube.com/vi/qf2goN7ccxg/0.jpg)](https://www.youtube.com/watch?v=qf2goN7ccxg)
