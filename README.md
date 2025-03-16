@@ -25,6 +25,3 @@ Automatically send connection requests on LinkedIn with customizable delays. Sav
 
 ## 👨‍💻 About Me
 Developed by **Ömer Emre Eser**. Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/omer-emre-eser/)
-
-## 💡 Contribute
-Want to improve or suggest new features? Check out the source code on [GitHub](#) (link coming soon).
