@@ -16,8 +16,7 @@ Automatically send connection requests on LinkedIn with customizable delays. Sav
 4. Adjust the delay settings to control the speed of requests.
 
 ## 📺 Demo Video
-Watch the demo video directly on GitHub:  
-➡️ [View Demo](https://nagumo86.github.io/LinkedIn-Auto-Connect-Sender-Bot---Chrome-Extension/)
+[![Watch the video](https://img.youtube.com/vi/qf2goN7ccxg/0.jpg)](https://www.youtube.com/watch?v=qf2goN7ccxg)
 
 ## 📥 Installation
 1. Go to the [Chrome Web Store](https://chromewebstore.google.com/detail/linkedin-auto-connect-sen/ijpdpkdbkgmjhcfpffbkjfiibdapbhik?hl=en).
@@ -28,4 +27,4 @@ Watch the demo video directly on GitHub:
 Developed by **Ömer Emre Eser**. Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/omer-emre-eser/)
 
 ## 💡 Contribute
-Want to improve or suggest new features? Check out the source code on [GitHub](https://github.com/nagumo86/LinkedIn-Auto-Connect-Sender-Bot---Chrome-Extension).
+Want to improve or suggest new features? Check out the source code on [GitHub](#) (link coming soon).
